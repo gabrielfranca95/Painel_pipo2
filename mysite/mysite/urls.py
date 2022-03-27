@@ -23,3 +23,7 @@ urlpatterns = [
     
     
 ]
+
+admin.site.index_title = " Planos e Clientes"
+admin.site.site_header = "PIPO SAÚDE"
+admin.site.site_title = "Pipo saúde"
