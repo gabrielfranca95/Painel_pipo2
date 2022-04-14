@@ -7,7 +7,7 @@
 
 ## Painel de planos de saúde com login e administração de usuários: 
 ### Neste sistema além dos planos de saúde vistos no repositorio:https://github.com/gabrielfranca95/Painel_de_clientes_Pipo_saude,
-com este ainda é possivel termos a opção de login de usuários do painel.
+com este ainda é possivel ter a opção de login de usuários do painel.
 ![image](https://user-images.githubusercontent.com/57453192/160321130-0e39e507-6103-4b88-88a0-3718cace14b8.png)
 
 No painel temos os osuários, as empresas que aderem aos planos, os planos de saúde e a opção de adicionar, editar ou remover funcionários dos planos. 
